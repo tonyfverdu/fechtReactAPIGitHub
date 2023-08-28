@@ -8,4 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # fechtReactAPIGitHub
+
+View in Vercel:  https://fecht-react-api-git-hub.vercel.app/
+
 Webanwendung (** ReactJS, Tailwind CSS und Sass **) zur Suche nach Nutzern durch Abruf der GitHub V3 API (Zugriff auf Nutzer mit Nutzerdaten, Followern, Repositories, Zugriff auf den Standort mit der Google Map API usw.).
